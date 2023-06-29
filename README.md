@@ -33,26 +33,20 @@
 <img src="https://img.icons8.com/color/48/000000/typescript--v1.png"/> 
 <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> 
 
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/c-programming.png"/> 
-<img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> 
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> 
 
 <img src="https://img.icons8.com/color/48/000000/angularjs.png"/> 
 
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-<img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/> 
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/> 
 
 
-<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-<img src="https://img.icons8.com/color/48/000000/visual-studio.png"/>
-<img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
+<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/color/48/000000/visual-studio.png"/> <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
 
 <img src="https://img.icons8.com/color/48/000000/github.png"/>
 
 <img src="https://img.icons8.com/color/48/000000/jira.png"/>
 
-<img src="https://img.icons8.com/color/48/000000/figma.png"/>
-<img src="https://img.icons8.com/color/48/000000/gimp.png"/>
+<img src="https://img.icons8.com/color/48/000000/figma.png"/> <img src="https://img.icons8.com/color/48/000000/gimp.png"/>
 
 <br>
 
